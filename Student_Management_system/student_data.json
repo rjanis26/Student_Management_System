@@ -1,0 +1,26 @@
+{
+    "students": {
+        "25": {
+            "name": "Anis",
+            "age": 22,
+            "address": "Dhaka",
+            "student_id": "25",
+            "grades": {
+                "Math": "A-"
+            },
+            "courses": [
+                "Math"
+            ]
+        }
+    },
+    "courses": {
+        "math101": {
+            "course_name": "Math",
+            "course_code": "math101",
+            "instructor": "Khabirul Islam",
+            "students": [
+                "25"
+            ]
+        }
+    }
+}
